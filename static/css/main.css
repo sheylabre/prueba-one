@@ -1,6 +1,9 @@
 
 .footer-background {
-    background-image: url('../img/footer.jpg');
+    background-color: #490F41;
+    color: white;
+    padding: 5% 0 3%;
+    text-align: left;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
